@@ -27,10 +27,10 @@ export default function Lab2() {
       <h3>Styling with the STYLE attribute</h3>
       <p style={{ backgroundColor: "blue", color: "white" }}>
         Style attribute allows configuring look and feel right on the element.
-        Although it's very convenient it is considered bad practice and you should
-        avoid using the style attribute
+        Although it&apos;s very convenient it is considered bad practice and you
+        should avoid using the style attribute
       </p>
-      
+
       <h3>Styling with CSS</h3>
       <div id="wd-css-id-selectors">
         <h3>ID selectors</h3>
@@ -39,15 +39,16 @@ export default function Lab2() {
           name, e.g., P, we can refer to a specific element by its ID
         </p>
         <p id="wd-id-selector-2">
-          Here's another paragraph using a different ID and a different look and feel
+          Here&apos;s another paragraph using a different ID and a different look and
+          feel
         </p>
       </div>
 
       <div id="wd-css-class-selectors">
         <h3>Class selectors</h3>
         <p className="wd-class-selector">
-          Instead of using IDs to refer to elements, you can use an element's CLASS
-          attribute
+          Instead of using IDs to refer to elements, you can use an element&apos;s
+          CLASS attribute
         </p>
         <h4 className="wd-class-selector">
           This heading has same style as paragraph above
@@ -58,17 +59,18 @@ export default function Lab2() {
         <div className="wd-selector-1">
           <h3>Document structure selectors</h3>
           <div className="wd-selector-2">
-            Selectors can be combined to refer elements in particular places in the
-            document
+            Selectors can be combined to refer elements in particular places in
+            the document
             <p className="wd-selector-3">
-              This paragraph's red background is referenced as .selector-2 .selector-3
+              This paragraph&apos;s red background is referenced as .selector-2
+              .selector-3
               <br />
               <span className="wd-selector-4">
                 Whereas this span is a direct child of its parent
               </span>
               <br />
-              You can combine these relationships to create specific styles depending
-              on the document structure
+              You can combine these relationships to create specific styles
+              depending on the document structure
             </p>
           </div>
         </div>
