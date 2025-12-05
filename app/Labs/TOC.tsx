@@ -9,22 +9,22 @@ export default function TOC() {
   return (
     <Nav variant="pills">
       <NavItem>
-        <NavLink href="/Labs" as={Link} active={pathname === "/Labs"}>
+        <NavLink href="/Labs" as={Link} className={`nav-link ${pathname.endsWith("Labs") ? "active" : ""}`}>
           Labs
         </NavLink>
       </NavItem>
       <NavItem>
-        <NavLink href="/Labs/Lab1" as={Link} active={pathname?.includes("Lab1")}>
+        <NavLink href="/Labs/Lab1" as={Link} className={`nav-link ${pathname.endsWith("Lab1") ? "active" : ""}`}>
           Lab 1
         </NavLink>
       </NavItem>
       <NavItem>
-        <NavLink href="/Labs/Lab2" as={Link} active={pathname?.includes("Lab2")}>
+        <NavLink href="/Labs/Lab2" as={Link} className={`nav-link ${pathname.endsWith("Lab2") ? "active" : ""}`}>
           Lab 2
         </NavLink>
       </NavItem>
       <NavItem>
-        <NavLink href="/Labs/Lab3" as={Link} active={pathname?.includes("Lab3")}>
+        <NavLink href="/Labs/Lab3" as={Link} className={`nav-link ${pathname.endsWith("Lab3") ? "active" : ""}`}>
           Lab 3
         </NavLink>
       </NavItem>
@@ -34,7 +34,7 @@ export default function TOC() {
         </NavLink>
       </NavItem>
       <NavItem>
-        <NavLink href="https://github.com/souprem" target="_blank" id="wd-github">
+        <NavLink href="https://github.com/Souprem/A3" target="_blank" id="wd-github">
           My GitHub
         </NavLink>
       </NavItem>
