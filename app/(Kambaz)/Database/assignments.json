@@ -1,0 +1,133 @@
+[
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "description": "Calculate the thrust of a rocket engine given fuel flow rate and exhaust velocity.",
+    "points": 100,
+    "dueDate": "2023-02-15",
+    "availableFrom": "2023-01-10",
+    "availableUntil": "2023-02-16"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "description": "Analyze combustion efficiency in different engine types.",
+    "points": 100,
+    "dueDate": "2023-03-01",
+    "availableFrom": "2023-02-16",
+    "availableUntil": "2023-03-02"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "description": "Design a nozzle for optimal thrust at sea level.",
+    "points": 150,
+    "dueDate": "2023-04-01",
+    "availableFrom": "2023-03-02",
+    "availableUntil": "2023-04-02"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "description": "Quiz on basic aerodynamic principles.",
+    "points": 50,
+    "dueDate": "2023-02-10",
+    "availableFrom": "2023-01-10",
+    "availableUntil": "2023-02-11"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "description": "Analyze subsonic and supersonic flow patterns.",
+    "points": 100,
+    "dueDate": "2023-03-15",
+    "availableFrom": "2023-02-11",
+    "availableUntil": "2023-03-16"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Calculations",
+    "course": "RS102",
+    "description": "Calculate aerodynamic heating at various speeds.",
+    "points": 100,
+    "dueDate": "2023-04-15",
+    "availableFrom": "2023-03-16",
+    "availableUntil": "2023-04-16"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design",
+    "course": "RS103",
+    "description": "Design a spacecraft structure for given mission parameters.",
+    "points": 150,
+    "dueDate": "2023-02-20",
+    "availableFrom": "2023-01-10",
+    "availableUntil": "2023-02-21"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "description": "Calculate orbital parameters for a satellite mission.",
+    "points": 100,
+    "dueDate": "2023-03-20",
+    "availableFrom": "2023-02-21",
+    "availableUntil": "2023-03-21"
+  },
+  {
+    "_id": "A303",
+    "title": "Integration Project",
+    "course": "RS103",
+    "description": "Integrate all subsystems for a complete spacecraft design.",
+    "points": 200,
+    "dueDate": "2023-04-30",
+    "availableFrom": "2023-03-21",
+    "availableUntil": "2023-05-01"
+  },
+  {
+    "_id": "A401",
+    "title": "Organic Compounds Lab",
+    "course": "RS104",
+    "description": "Identify organic compounds through laboratory analysis.",
+    "points": 100,
+    "dueDate": "2023-02-28",
+    "availableFrom": "2023-01-10",
+    "availableUntil": "2023-03-01"
+  },
+  {
+    "_id": "A501",
+    "title": "Crystal Structure Analysis",
+    "course": "RS105",
+    "description": "Analyze and describe crystal structures of inorganic compounds.",
+    "points": 100,
+    "dueDate": "2023-03-10",
+    "availableFrom": "2023-01-10",
+    "availableUntil": "2023-03-11"
+  },
+  {
+    "_id": "A601",
+    "title": "Thermodynamics Problem Set",
+    "course": "RS106",
+    "description": "Solve thermodynamics problems related to chemical reactions.",
+    "points": 100,
+    "dueDate": "2023-02-25",
+    "availableFrom": "2023-01-10",
+    "availableUntil": "2023-02-26"
+  },
+  {
+    "_id": "A701",
+    "title": "Script Decipherment",
+    "course": "RS107",
+    "description": "Decipher a passage of ancient script and provide translation.",
+    "points": 100,
+    "dueDate": "2023-03-05",
+    "availableFrom": "2023-01-10",
+    "availableUntil": "2023-03-06"
+  }
+]
+

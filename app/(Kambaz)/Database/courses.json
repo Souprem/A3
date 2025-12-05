@@ -1,0 +1,73 @@
+[
+  {
+    "_id": "RS101",
+    "name": "Rocket Propulsion",
+    "number": "RS4550",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D123",
+    "credits": 4,
+    "description": "This course provides an in-depth study of the fundamentals of rocket propulsion, covering both the theory and practical applications of rocket engines. Topics include propellant chemistry, thermodynamics of propulsion, nozzle design, and the principles of thrust generation."
+  },
+  {
+    "_id": "RS102",
+    "name": "Aerodynamics",
+    "number": "RS4560",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D123",
+    "credits": 3,
+    "description": "This course offers a comprehensive exploration of aerodynamics, focusing on the behavior of air and other gases in motion and their interactions with solid bodies."
+  },
+  {
+    "_id": "RS103",
+    "name": "Spacecraft Design",
+    "number": "RS4570",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D123",
+    "credits": 4,
+    "description": "This course focuses on the principles and practices of spacecraft design, including structural analysis, thermal control, power systems, and mission planning."
+  },
+  {
+    "_id": "RS104",
+    "name": "Organic Chemistry",
+    "number": "CH1230",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D134",
+    "credits": 3,
+    "description": "An introductory course in organic chemistry, covering the structure, properties, composition, reactions, and synthesis of organic compounds."
+  },
+  {
+    "_id": "RS105",
+    "name": "Inorganic Chemistry",
+    "number": "CH1240",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D134",
+    "credits": 3,
+    "description": "This course covers the principles of inorganic chemistry, including the properties and behaviors of inorganic and organometallic compounds."
+  },
+  {
+    "_id": "RS106",
+    "name": "Physical Chemistry",
+    "number": "CH1250",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D134",
+    "credits": 3,
+    "description": "An advanced course in physical chemistry, emphasizing the application of physical principles to chemical systems."
+  },
+  {
+    "_id": "RS107",
+    "name": "Ancient Languages and Scripts",
+    "number": "LA2010",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D145",
+    "credits": 3,
+    "description": "This course explores ancient languages and writing systems, including cuneiform, hieroglyphics, and early alphabets."
+  }
+]
+
